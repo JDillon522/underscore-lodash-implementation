@@ -1,0 +1,18 @@
+{
+  "name": "underline",
+  "version": "1.0.0",
+  "description": "For this exercise you’ll be reimplementing some methods inspired by [Underscore](http://underscorejs.org/), a very popular JavaScript library. We’ve written a list of unit tests that your implementation needs to pass.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^9.2.0"
+  }
+}
